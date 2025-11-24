@@ -1,0 +1,11 @@
+[project]
+name = "module4-helper"
+version = "0.1.0"
+dependencies = [
+    "torch",
+    "torchvision",
+    "fastapi",
+    "uvicorn",
+    "pillow",
+    "matplotlib"
+]
